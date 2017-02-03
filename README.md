@@ -1,6 +1,6 @@
 # Лекции по SOLID
 
- - Single responsibility
+ - Single responsibility.
  - Open-closed
  - Liskov substitution
  - Interface segregation
